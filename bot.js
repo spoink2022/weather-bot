@@ -1,1 +1,1 @@
-console.log('running bot?');
+require('./lib/misc/client.js');

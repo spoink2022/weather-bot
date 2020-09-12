@@ -1,4 +1,4 @@
 v0.0.1 (unreleased)
 - create framework (in-progress)
 - @WeatherBot command (in-progress)
-- prefix system (in-progress)
+- prefix system
