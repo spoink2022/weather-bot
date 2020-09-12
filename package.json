@@ -4,7 +4,6 @@
   "description": "A discord bot that aims to help users by providing convenient weather information",
   "main": "bot.js",
   "scripts": {
-    "test": "npx nodemon test.js",
     "start": "npx nodemon bot.js",
     "prod": "node bot.js"
   },
