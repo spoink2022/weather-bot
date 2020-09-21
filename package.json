@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/spoink2022/weather-bot#readme",
   "dependencies": {
+    "canvas": "2.6.1",
+    "chart.js": "2.9.3",
+    "chartjs-node-canvas": "3.0.6",
+    "chartjs-plugin-datalabels": "0.7.0",
     "discord.js": "12.3.1",
     "pg": "8.3.3"
   },

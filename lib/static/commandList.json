@@ -2,5 +2,8 @@
     "misc" : {
         "ping" : ["p", "pingg"],
         "info" : []
+    },
+    "lookup" : {
+        "weather" : ["w"]
     }
 }

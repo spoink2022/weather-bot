@@ -3,5 +3,5 @@ v0.0.1
 - @WeatherBot command
 - prefix system
 
-v0.0.2 (unreleased)
+v0.0.2
 - weather command (takes location as parameter)
