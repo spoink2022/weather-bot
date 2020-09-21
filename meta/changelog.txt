@@ -7,6 +7,6 @@ v0.0.2
 - weather command (takes location as parameter)
 
 v0.0.3 (unreleased)
-- remove draw time logs (unfinished)
+- remove draw time logs
 - .help command (unfinished)
 - .info command (unfinished)
